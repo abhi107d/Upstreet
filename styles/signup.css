@@ -9,7 +9,7 @@ body{
     background-color:rgb(247, 182, 62);
 }
 .a{
-    background:linear-gradient(rgba(92, 89, 89, 0.664),rgba(54, 52, 52, 0.445)) ,url(cv.jpg);
+    background:linear-gradient(rgba(92, 89, 89, 0.664),rgba(54, 52, 52, 0.445)) ,url("\cv.jpg");
     position:absolute;
     height:80vh;
     width:80%;
