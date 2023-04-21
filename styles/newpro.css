@@ -8,7 +8,7 @@
    height: 100vh;
     display: flex;
     justify-content: center;
-    background:linear-gradient(to right,rgba(0, 62, 119, 0.685),rgba(0, 33, 124, 0.884)),url("Upstreet/i.webp"),no-repeat;
+    background:linear-gradient(to right,rgba(0, 62, 119, 0.685),rgba(0, 33, 124, 0.884)),url(../i.webp),no-repeat;
     background-size:cover;
     
 }
