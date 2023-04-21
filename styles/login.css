@@ -6,7 +6,7 @@
 }
 .par{
     height:100vh;
-    background:linear-gradient(to right,rgba(241, 241, 59, 0.678),rgba(255, 255, 0, 0.774)),url("../mi.jpg") no-repeat left;
+    background:linear-gradient(to right,rgba(0, 241, 59, 0.678),rgba(255, 255, 0, 0.774)),url("../mi.jpg") no-repeat left;
     display:flex;
     justify-content: center;
     align-items: center;
